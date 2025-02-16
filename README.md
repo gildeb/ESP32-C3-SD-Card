@@ -1,6 +1,8 @@
 # ESP32-C3-SD-Card
 
-![branchement](https://github.com/user-attachments/assets/f622bf57-3a72-44ec-be52-625d43ec13c2)
+<p>
+  <img src="./branchement.png" width=600>
+</p>
 
 Le script _test_sdcard.py_ donne la liste des éléments présents (fichiers et répertoires) sur la carte SD.
 
